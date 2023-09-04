@@ -1,2 +1,2 @@
 # OpenAi-Questionmakker
-"OpenAI ile yapay zeka destekli soru üretimi ve veritabanı oluşturduk. React ve Flask kullandık. GitHub'da kodları bulabilirsiniz. Soru tabanlı oyunlar için ideal.
+Bu proje, soru tabanlı oyunlar veya eğitim uygulamaları için soru verileri oluşturmak ve yönetmek için kullanılabilecek bir yazılımdır. OpenAI'nin yapay zeka modelini kullanarak çeşitli konularda karmaşık ve zorlu sorular üretebiliriz. Ayrıca, bu verileri bir veritabanına kaydedebilir ve daha sonra oyunlar veya eğitim materyalleri için kullanabiliriz. Projede React ve Flask gibi teknolojiler kullanılmıştır. Daha fazla detay ve projenin kodları için GitHub repo'sunu ziyaret edebilirsiniz.
